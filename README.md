@@ -5,12 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=Trankhanh0605&label=Profile%20views&color=0e75b6&style=flat" alt="Trankhanh0605" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Trankhanh0605" alt="Trankhanh0605" />
-  </a>
-</p>
-
 - 🌱 I’m currently learning **C programming language, how to use frameworks**
 
 - 🤝 I’m looking for help with **Web Development**
