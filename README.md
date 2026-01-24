@@ -21,6 +21,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.facebook.com/iamken112006" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg"
+      alt="facebook"
+      width="40"
+      height="40"
+    />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
