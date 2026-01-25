@@ -15,5 +15,5 @@ jobs:
       - name: Pull RSS feed and update README
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://trankhanh0605.wordpress.com/2024/11/16/cam-nhan-ve-sau-2-thang-hoc-hcmut/"
+          feed_list: "https://trankhanh0605.wordpress.com/feed/"
           max_post_count: 5
