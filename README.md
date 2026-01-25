@@ -16,6 +16,7 @@
 
 ### 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [FIRST SEMESTER OF SECOND YEAR](https://trankhanh0605.wordpress.com/2026/01/25/first-semester-of-second-year/)
 - [RECAP: FIRST YEAR ❤️‍🩹](https://trankhanh0605.wordpress.com/2025/06/21/recap-first-year-%e2%9d%a4%ef%b8%8f%f0%9f%a9%b9/)
 - [CHÁU HỌC BÁCH KHOA HẢ?](https://trankhanh0605.wordpress.com/2025/02/24/chau-hoc-bach-khoa-ha/)
 - [Cảm nhận về 1 kỳ học tập tại HCMUT](https://trankhanh0605.wordpress.com/2024/11/16/cam-nhan-ve-sau-2-thang-hoc-hcmut/)
