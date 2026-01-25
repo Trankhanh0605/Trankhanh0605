@@ -14,9 +14,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Trankhanh0605&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 ### 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [RECAP: FIRST YEAR ❤️‍🩹](https://trankhanh0605.wordpress.com/2025/06/21/recap-first-year-%e2%9d%a4%ef%b8%8f%f0%9f%a9%b9/)
