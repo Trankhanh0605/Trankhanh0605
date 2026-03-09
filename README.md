@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Khanh:
-🌱 I’m currently learning C programming language, how to use frameworks such as Django and Spring<br>
+🌱 I’m currently learning C programming language, how to use frameworks such as Django and Spring, also learn abut networking<br>
 <br>🤝 I’m looking for help with Web Development<br>
 <br> 💬 Ask me about [high school mathematical problems](https://www.facebook.com/iamken112006)<br>
 <br>📫 How to reach me https://www.facebook.com/iamken112006/
