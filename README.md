@@ -1,6 +1,6 @@
 # 💫 Hi, I'm Khanh:
-🌱 A third year student in HCMUT<br>
-<br>This is my profile<br>
+🌱 A third year student in HCMUT
+
 
 # 💻 Tech Stack:
 
